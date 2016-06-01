@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.019,=C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kedko\Desktop\ghdxjtyfdk,hyjgyuj\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Lab6_TLB.pas=C:\Users\kedko\Desktop\ghdxjtyfdk,hyjgyuj\Lab6_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Project1_TLB.pas=C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Lab6_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Project1.ridl=C:\Users\kedko\Desktop\ghdxjtyfdk,hyjgyuj\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,=C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Project1.ridl</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,C:\Users\kedko\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kedko\Desktop\ghdxjtyfdk,hyjgyuj\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
